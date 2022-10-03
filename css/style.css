@@ -1,0 +1,83 @@
+nav li {
+    display:inline-block;
+    margin-top: 40px;
+    margin-right: 20px;
+    outline-width: 4px;
+}
+
+#firsta {
+    background-color: blue;
+}
+
+a { 
+    border:1px solid black;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    font-size:  35px;
+}
+
+#firsta {
+    color: white;
+}
+
+#home {
+    margin-top: 40px;
+    background-color: coral;
+}
+
+#omnie {
+    background-color: palegreen;
+}
+
+#kontakt {
+    background-color: palegreen;
+}
+
+.hbig {
+    margin-left: 500px;
+    margin-right: auto;
+    font-weight: 400;
+    font-size: 55px;
+}
+
+#pbig {
+    font-size: 35px;
+    margin-left: 45px;
+    margin-right: 400px;
+    margin-bottom: 45px;
+}
+
+.hmedium {
+    margin-left: 650px;
+    margin-right: auto;
+    font-weight: 300;
+    font-size: 40px;
+}
+
+p.small {
+    font-size: 25px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+#lasth {
+    margin-left: 600px;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+#last {
+    font-size: 15px;
+    margin-left: 45px;
+    margin-right: 45px; 
+}
+footer {
+    background-color: cornflowerblue;
+    height: 50px;
+}
+
+#ftext {
+    margin-left: 650px;
+    margin-right: auto;
+}
